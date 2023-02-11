@@ -141,8 +141,8 @@ li > a {
 	font-weight: 400;
 	font-size: 16px;
 	line-height: 22px;
-	text-align: center;
-	color: #000000;
+	text-align: start;
+	color: #666;
 	margin-top: 10px;
 }
 
